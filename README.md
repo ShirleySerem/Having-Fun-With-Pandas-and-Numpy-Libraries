@@ -116,5 +116,9 @@ the wholesale price of goods. Calculate the new net revenue.**
 >`df['new_net_revenue']=(df['retail_price']-new_wholesale_price)*df['sales']`
 >
 >`df`
+
+Have a go at it and let's have fun!!!
+
+
 ## Author
 Shirley Serem
